@@ -1,0 +1,8 @@
+.inx-services-widget .service-item {
+    width: 33.33%;
+    padding-left: 10px;
+    padding-right: 10px;
+}.inx-services-widget {
+    display: flex;
+    flex-wrap: wrap;
+}
